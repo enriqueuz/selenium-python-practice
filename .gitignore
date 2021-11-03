@@ -1,0 +1,4 @@
+chromedriver
+*csv
+*html
+__pycache__/
