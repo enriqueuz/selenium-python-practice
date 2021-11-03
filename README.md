@@ -26,7 +26,7 @@ pip install -r requirements.txt
 You can erase the versions of the packages if you want to download the latest versions of them.
 
 ## Usage
-run in your shell the python3 command and then the name of the file you want to run.
+Run in your shell the python3 command and then the name of the file you want to run.
 
 ```
 # This is an example
